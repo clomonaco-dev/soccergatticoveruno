@@ -75,3 +75,8 @@ Nel file `styles.css` puoi cambiare i colori principali nelle variabili all'iniz
 Aggiunta sezione social con collegamenti a:
 - Instagram: https://www.instagram.com/asdsoccergatticoveruno/
 - Facebook: https://www.facebook.com/profile.php?id=61562465916101
+
+## Iscrizioni online
+La sezione Iscrizioni non scarica più il PDF.
+Il pulsante apre:
+https://iscrizioni.sportassist.it/SGVERUNO/1
